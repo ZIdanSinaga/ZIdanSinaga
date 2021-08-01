@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
- <a href="https://linkedin.com/in/bdrsmsdn" target="_blank">
-   <img align="center" alt="Badra S | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-  
-  <a href="https://twitter.com/bdrsmsdn" target="_blank">
-    <img align="center" alt="Badra S | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <a href="https://instagram.com/_Zidanfadilaharsa" target="_blank">
+    <img align="center" alt="Zidan F.A | Twitter" width="41px" src="https://i.ibb.co/Cw7MN47/instagram-icon-vector-doodle-hand-drawn-black-outline-style-200568995-removebg-preview-1.png" alt="instagram-icon-vector-doodle-hand-drawn-black-outline-style-200568995-removebg-preview-1" />
   </a>
 
 <!--   <a href="https://dev.to/johnkirtley_" target="_blank">
@@ -37,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-<h3>💻 Informatics Enjoyer | 🌏 Bandung, ID </h3>
+<h3>💻 Noob Programers | 🌏 Jawa Tengah, ID </h3>
 </div>
 
 ### About Me
@@ -65,7 +62,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![Badra's github stats](https://github-readme-stats.vercel.app/api?username=bdrsmsdn&count_private=true&show_icons=true&theme=default)
+![Zidan's github stats](https://github-readme-stats.vercel.app/api?username=zidansinaga&count_private=true&show_icons=true&theme=default)
 
 
 
