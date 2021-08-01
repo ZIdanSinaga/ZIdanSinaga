@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://instagram.com/_Zidanfadilaharsa" target="_blank">
-    <img align="center" alt="Zidan F.A | Twitter" width="41px" src="https://i.ibb.co/Cw7MN47/instagram-icon-vector-doodle-hand-drawn-black-outline-style-200568995-removebg-preview-1.png" />
+    <img align="center" alt="Zidan F.A | Twitter" width="41px" src="https://i.ibb.co/Cw7MN47/instagram-icon-vector-doodle-hand-drawn-black-outline-style-200568995-removebg-preview-1.png"/>
   </a>
  </div>
 
