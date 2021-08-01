@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/_Zidanfadilaharsa" target="_blank">
     <img align="center" alt="Zidan F.A | Twitter" width="41px" src="https://i.ibb.co/Cw7MN47/instagram-icon-vector-doodle-hand-drawn-black-outline-style-200568995-removebg-preview-1.png" alt="instagram-icon-vector-doodle-hand-drawn-black-outline-style-200568995-removebg-preview-1" />
   </a>
+ </div>
 
 <!--   <a href="https://dev.to/johnkirtley_" target="_blank">
     <img align="center" alt="John Dev Profile" width="41px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
